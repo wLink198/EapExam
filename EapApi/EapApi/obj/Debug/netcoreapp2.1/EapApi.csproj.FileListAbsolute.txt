@@ -1,0 +1,14 @@
+D:\Rider jb\projects\EAPExam\EapApi\EapApi\obj\Debug\netcoreapp2.1\EapApi.csprojAssemblyReference.cache
+D:\Rider jb\projects\EAPExam\EapApi\EapApi\obj\Debug\netcoreapp2.1\EapApi.csproj.CoreCompileInputs.cache
+D:\Rider jb\projects\EAPExam\EapApi\EapApi\obj\Debug\netcoreapp2.1\EapApi.RazorAssemblyInfo.cache
+D:\Rider jb\projects\EAPExam\EapApi\EapApi\obj\Debug\netcoreapp2.1\EapApi.RazorAssemblyInfo.cs
+D:\Rider jb\projects\EAPExam\EapApi\EapApi\obj\Debug\netcoreapp2.1\EapApi.AssemblyInfoInputs.cache
+D:\Rider jb\projects\EAPExam\EapApi\EapApi\obj\Debug\netcoreapp2.1\EapApi.AssemblyInfo.cs
+D:\Rider jb\projects\EAPExam\EapApi\EapApi\bin\Debug\netcoreapp2.1\EapApi.deps.json
+D:\Rider jb\projects\EAPExam\EapApi\EapApi\bin\Debug\netcoreapp2.1\EapApi.runtimeconfig.json
+D:\Rider jb\projects\EAPExam\EapApi\EapApi\bin\Debug\netcoreapp2.1\EapApi.runtimeconfig.dev.json
+D:\Rider jb\projects\EAPExam\EapApi\EapApi\bin\Debug\netcoreapp2.1\EapApi.dll
+D:\Rider jb\projects\EAPExam\EapApi\EapApi\obj\Debug\netcoreapp2.1\EapApi.RazorTargetAssemblyInfo.cache
+D:\Rider jb\projects\EAPExam\EapApi\EapApi\bin\Debug\netcoreapp2.1\EapApi.pdb
+D:\Rider jb\projects\EAPExam\EapApi\EapApi\obj\Debug\netcoreapp2.1\EapApi.dll
+D:\Rider jb\projects\EAPExam\EapApi\EapApi\obj\Debug\netcoreapp2.1\EapApi.pdb
